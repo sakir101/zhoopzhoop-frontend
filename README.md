@@ -67,6 +67,17 @@
 - Tailwind CSS  
 - Axios
 
+### Backend
+- Node.js  
+- Express.js  
+- TypeScript  
+- Prisma ORM  
+- Multer  
+- Nodemailer  
+
+### Database
+- PostgreSQL
+
 <img width="1695" height="1939" alt="tec estimate" src="https://github.com/user-attachments/assets/e775a82b-c7b3-47fd-acc2-ed6724164159" />
 <img width="1920" height="869" alt="sell analysis" src="https://github.com/user-attachments/assets/ccc0bcf4-9edc-42b6-b428-0e8b0db1f30d" />
 <img width="1695" height="1732" alt="report" src="https://github.com/user-attachments/assets/b5e2d987-c046-4b28-b35a-a589b8f619cb" />
